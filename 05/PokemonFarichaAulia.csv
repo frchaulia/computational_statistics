@@ -1,0 +1,286 @@
+Class,Group,Pokemon,date_caught,Location,Type,Status,Attack,HP,DEF,CP
+TI 2I,A,Flaeron,15/03/2023,Univ Brawijaya,Fire,Caught,246,103,179,1648
+TI 2I,A,Ninetales,15/03/2023,Univ Brawijaya,Fire,Caught,169,121,190,1461
+TI 2I,A,Furfrou,15/03/2023,Univ Brawijaya,Normal,Caught,164,128,167,1403
+TI 2I,A,Throh,15/03/2023,Univ Brawijaya,Fighting,Caught,172,157,160,1288
+TI 2I,A,Heracross,15/03/2023,Univ Brawijaya,Bug/Fighting,Caught,234,105,179,1243
+TI 2I,A,Oddish,15/03/2023,Univ Brawijaya,Grass/Poison,Caught,131,12,112,14
+TI 2I,A,Arbok,15/03/2023,Univ Brawijaya,Poison,Caught,167,108,153,1204
+TI 2I,A,Feraligatr,15/03/2023,Univ Brawijaya,Water,Caught,205,52,188,287
+TI 2I,A,Lairon,15/03/2023,Univ Brawijaya,Steel/Rock,Caught,158,27,198,80
+TI 2I,A,Chinchou,15/03/2023,Univ Brawijaya,Water/Electric,Caught,106,106,97,485
+TI 2I,A,Tranquill,15/03/2023,Univ Brawijaya,Normal/Flying,Caught,144,47,107,173
+TI 2I,A,Ledyba,15/03/2023,Univ Brawijaya,Bug/Flying,Caught,72,65,118,251
+TI 2I,A,Masquerain,15/03/2023,Univ Brawijaya,Bug/Flying,Caught,192,121,150,1533
+TI 2I,A,Togedemaru,15/03/2023,Univ Brawijaya,Electric/Steel,Caught,190,120,145,1595
+TI 2I,A,Pidove,15/03/2023,Univ Brawijaya,Normal/Flying,Caught,98,65,80,268
+TI 2I,A,Surskit,15/03/2023,Univ Brawijaya,Bug/Water,Caught,93,75,87,382
+TI 2I,A,Surskit,15/03/2023,Univ Brawijaya,Bug/Water,Caught,93,90,87,519
+TI 2I,A,Pidove,15/03/2023,Univ Brawijaya,Electric/Steel,Caught,98,40,80,104
+TI 2I,A,Tranquill,15/03/2023,Univ Brawijaya,Normal/Flying,Caught,144,47,97,173
+TI 2I,A,Pikachu,15/03/2023,Univ Brawijaya,Electric,Caught,112,33,96,111
+TI 2I,A,Grubbin,15/03/2023,Univ Brawijaya,Bug,Caught,62,107,45,769
+TI 2I,A,Tynamo,15/03/2023,Univ Brawijaya,Electric ,Caught,55,72,40,423
+TI 2I,A,Pidove,15/03/2023,Univ Brawijaya,Normal/Flying,Caught,55,103,50,586
+TI 2I,A,Stufful,15/03/2023,Univ Brawijaya,Normal/Fighting,Caught,75,80,50,378
+TI 2I,A,Magikarp,15/03/2023,Univ Brawijaya,Water,Caught,10,44,8,92
+TI 2I,A,Masquearin,15/03/2023,Univ Brawijaya,Bug/Flying,Flee,60,70,62,881
+TI 2I,A,Karrablast,15/03/2023,Univ Brawijaya,Bug,Caught,50,68,45,376
+TI 2I,A,Surskit,15/03/2023,Univ Brawijaya,Bug/Water,Caught,32,53,30,186
+TI 2I,A,Yanma,15/03/2023,Univ Brawijaya,Bug/Flying,Caught,65,91,45,576
+TI 2I,A,Surskit,15/03/2023,Univ Brawijaya,Bug/Water,Caught,32,74,30,405
+TI 2I,A,Cyndaquil,15/03/2023,Univ Brawijaya,Fire,Caught,50,25,60,59
+TI 2I,A,Typhlosion,15/03/2023,Univ Brawijaya,Fire,Caught,109,82,85,775
+TI 2I,A,Grubbin,15/03/2023,Univ Brawijaya,Bug,Caught,89,55,45,578
+TI 2I,A,Vulpix,15/03/2023,Univ Brawijaya,Fire,Caught,60,50,65,309
+TI 2I,A,Lillipup,15/03/2023,Univ Brawijaya,Normal,Caught,93,25,45,574
+TI 2I,A,Surskit,15/03/2023,Univ Brawijaya,Bug/Water,Caught,50,87,60,468
+TI 2I,A,Doduo,15/03/2023,Univ Brawijaya,Normal/Flying,Caught,75,87,50,871
+TI 2I,A,Aron,15/03/2023,Univ Brawijaya,Steel/Rock,Caught,109,100,77,879
+TI 2I,A,Tynamo,15/03/2023,Univ Brawijaya,Electric,Caught,80,72,66,423
+TI 2I,A,Grubbin,15/03/2023,Univ Brawijaya,Bug,Caught,98,107,54,769
+TI 2I,A,Ledyba,15/03/2023,Univ Brawijaya,Bug/Flying,Flee,20,40,30,544
+TI 2I,A,Surskit,15/03/2023,Univ Brawijaya,Bug/Water,Caught,50,52,60,199
+TI 2I,A,Caterpie,15/03/2023,Univ Brawijaya,Bug,Caught,55,53,55,102
+TI 2I,A,Sandshrew,15/03/2023,Univ Brawijaya,Ground,Caught,126,97,120,773
+TI 2I,A,Lillipup,15/03/2023,Univ Brawijaya,Normal,Caught,93,29,45,57
+TI 2I,A,Doduo,15/03/2023,Univ Brawijaya,Normal/Flying,Caught,75,86,50,874
+TI 2I,A,Slugma,15/03/2023,Univ Brawijaya,Fire,Caught,118,79,71,445
+TI 2I,A,Surskit,15/03/2023,Univ Brawijaya,Bug/Water,Caught,50,49,60,170
+TI 2I,A,Aron,15/03/2023,Univ Brawijaya,Steel/Rock,Caught,121,29,141,81
+TI 2I,B,Caterpie,14/03/2023,Sudimoro,Bug,Caught,55,34,55,43
+TI 2I,B,Shelmet,15/03/2023,Polinema,Bug,Caught,72,38,140,76
+TI 2I,B,Clauncher,15/03/2023,Polinema,Water,Caught,108,40,117,131
+TI 2I,B,Starly,15/03/2023,Polinema,Normal/Flying,Caught,101,12,58,10
+TI 2I,B,Ledyba,15/03/2023,Polinema,Bug/Flying,Caught,72,12,118,10
+TI 2I,B,Patrat,15/03/2023,Polinema,Normal,Caught,98,57,73,189
+TI 2I,B,Caterpie,15/03/2023,Polinema,bug,Caught,55,42,55,68
+TI 2I,B,Starly,15/03/2023,Polinema,Normal/Flying,Caught,101,45,58,124
+TI 2I,B,Zubat,15/03/2023,Polinema,Poison/Flying,Caught,83,38,73,85
+TI 2I,B,Magikarp,15/03/2023,Polinema,Water,Caught,29,50,85,108
+TI 2I,B,Shroomish,15/03/2023,Polinema,Grass,Caught,74,35,110,54
+TI 2I,B,Ledyba,15/03/2023,Polinema,Bug/Flying,Caught,72,55,118,193
+TI 2I,B,Pidove,15/03/2023,Polinema,Normal/Flying,Caught,98,13,80,10
+TI 2I,B,Tynamo,15/03/2023,Polinema,Electric ,Caught,105,55,78,268
+TI 2I,B,Lillipup,15/03/2023,Polinema,Normal,Caught,107,12,86,12
+TI 2I,B,Hoppip,15/03/2023,Polinema,Grass/Flying,Caught,67,38,94,98
+TI 2I,B,Caterpie,15/03/2023,Saxophone,Bug,Caught,55,28,55,25
+TI 2I,B,Cyndaquil,15/03/2023,Saxophone,Fire,Caught,116,45,93,166
+TI 2I,B,Starly,15/03/2023,Saxophone,Normal/Flying,Caught,101,43,58,113
+TI 2I,B,Tranquill,15/03/2023,Saxophone,Normal/Flying,Caught,144,56,107,243
+TI 2I,B,Charmander,15/03/2023,Saxophone,Fire,Caught,116,12,93,12
+TI 2I,B,Burmy,15/03/2023,Saxophone,Bug,Caught,53,39,83,71
+TI 2I,B,Lillipup,15/03/2023,Saxophone,Grass ,Caught,107,23,86,34
+TI 2I,B,Hoppip,15/03/2023,Saxophone,Grass/Flying,Caught,67,24,94,35
+TI 2I,B,Hoppip,16/03/2023,Dau,Grass/Flying,Caught,67,33,94,70
+TI 2I,B,Tynamo,16/03/2023,Dau,Electric ,Caught,105,41,78,137
+TI 2I,B,Cyndaquil,16/03/2023,Dau,Fire,Caught,116,35,93,116
+TI 2I,B,Starly,16/03/2023,Dau,Normal/Flying,Caught,101,31,58,65
+TI 2I,B,Shroomish,16/03/2023,Dau,Grass,Caught,74,14,110,10
+TI 2I,B,Castform,16/03/2023,Polinema,Normal,Caught,139,72,139,393
+TI 2I,B,Weedle,16/03/2023,Polinema,Bug/Poison,Caught,63,48,50,87
+TI 2I,B,Solrock,16/03/2023,Polinema,Rock/Psychic,Caught,178,85,153,543
+TI 2I,B,Starly,16/03/2023,Polinema,Normal/Flying,Caught,101,66,58,268
+TI 2I,B,Purrloin,16/03/2023,Polinema,Dark,Caught,98,22,73,28
+TI 2I,B,Tynamo,16/03/2023,Polinema,Electric ,Caught,105,41,78,147
+TI 2I,B,Lillipup,17/03/2023,Polinema,Normal,Caught,107,13,86,12
+TI 2I,B,Bunnelby,17/03/2023,Polinema,Normal,Caught,68,27,72,33
+TI 2I,B,Froakie,17/03/2023,Polinema,Water,Caught,122,20,84,37
+TI 2I,B,Weedle,17/03/2023,Polinema,Bug/Poison,Caught,63,53,50,108
+TI 2I,B,Pidove,17/03/2023,Polinema,Normal/Flying,Caught,98,57,80,170
+TI 2I,B,Pidove,17/03/2023,Polinema,Normal/Flying,Caught,98,60,80,205
+TI 2I,B,Ledyba,17/03/2023,Polinema,Bug/Flying,Caught,72,50,118,152
+TI 2I,B,Stufful,17/03/2023,Polinema,Normal/Fighting,Caught,136,77,95,367
+TI 2I,B,Pidove,17/03/2023,Suhat,Normal/Flying,Caught,98,50,80,155
+TI 2I,B,Weedle,17/03/2023,Suhat,Bug/Poison,Caught,63,55,50,105
+TI 2I,B,Chinchou,17/03/2023,Suhat,Water/Electric,Caught,106,61,97,163
+TI 2I,B,Tranquill,17/03/2023,Suhat,Normal/Flying,Caught,144,36,107,96
+TI 2I,B,Patrat,17/03/2023,Suhat,Normal,Caught,98,50,73,167
+TI 2I,B,Ledyba,17/03/2023,Suhat,Bug/Flying,Caught,72,33,118,66
+TI 2I,B,Togedemaru,17/03/2023,Suhat,Electric/Steel,Caught,190,29,145,90
+TI 2I,B,Sentret,17/03/2023,Suhat,Normal,Caught,79,25,73,39
+TI 2I,B,Sunkern,17/03/2023,Suhat,Grass,Caught,55,23,55,21
+TI 2I,B,Grubbin,17/03/2023,Suhat,Bug,Caught,115,47,85,160
+TI 2I,B,Sandslash,17/03/2023,Suhat,Ground,Caught,182,74,175,541
+TI 2I,B,Tynamo,17/03/2023,Suhat,Electric ,Caught,105,53,78,251
+TI 2I,B,Ekans,17/03/2023,Suhat,Poison,Flee,110,111,97,230
+TI 2I,B,Weedle,17/03/2023,Suhat,Bug/Poison,Flee,63,120,60,243
+TI 2I,C,Bulbasaur,18/03/2023,Polinema,Grass/Poison,Caught,49,12,49,14
+TI 2I,C,Caterpie,18/03/2023,Polinema,Bug,Caught,84,46,79,60
+TI 2I,C,pikachu,18/03/2023,Polinema,Electric,Caught,78,45,87,189
+TI 2I,C,diglett,18/03/2023,Polinema,Ground,Caught,96,23,82,101
+TI 2I,C,drownzee,18/03/2023,Univ Brawijaya,Psychic,Caught,37,69,123,279
+TI 2I,C,Voltrob,18/03/2023,Univ Brawijaya,Electric,Caught,118,71,50,414
+TI 2I,C,Hitmonlee,19/03/2023,Univ Brawijaya,Fighting,Caught,105,45,109,390
+TI 2I,C,Magikarp,19/03/2023,Univ Brawijaya,Water,Caught,68,10,85,10
+TI 2I,C,Eevee,19/03/2023,Univ Brawijaya,Normal,Caught,63,67,48,288
+TI 2I,C,Hoothoot,19/03/2023,Univ Brawijaya,Normal/Flying,Caught,46,76,59,187
+TI 2I,C,Starly,19/03/2023,Univ Malang,Electric,Caught,35,24,101,36
+TI 2I,C,Nosepass,19/03/2023,Univ Malang,Grass/Flying,Caught,53,19,103,21
+TI 2I,C,Hoppip,19/03/2023,Polinema,Normal,Caught,49,37,99,82
+TI 2I,C,Teddiursa,18/03/2023,Polinema,Normal,Caught,51,69,110,204
+TI 2I,C,Slugma,18/03/2023,Polinema,Grace/Ice,Caught,74,45,115,153
+TI 2I,C,Houndour,18/03/2023,Polinema,Normal,Caught,60,87,98,487
+TI 2I,C,Himontop,18/03/2023,Polinema,Water,Caught,89,78,43,394
+TI 2I,C,Nosepass,18/03/2023,Polinema,Normal,Caught,75,73,42,325
+TI 2I,C,Volbeat,18/03/2023,Polinema,Normal,Caught,39,62,30,268
+TI 2I,C,Castform,19/03/2023,Polinema,Dark,Caught,44,55,90,221
+TI 2I,C,Starly,19/03/2023,Univ Brawijaya,Fire,Caught,44,82,32,444
+TI 2I,C,Glameow,19/03/2023,Univ Brawijaya,Normal/Flying,Caught,92,62,46,242
+TI 2I,C,Bidoof,19/03/2023,Univ Brawijaya,Normal/Flying,Caught,111,86,37,520
+TI 2I,C,Buneary,19/03/2023,Univ Brawijaya,Rock,Caught,109,70,33,323
+TI 2I,C,Snower,19/03/2023,Univ Brawijaya,Ground,Caught,32,99,31,749
+TI 2I,C,Oshawott,19/03/2023,Univ Brawijaya,Dark,Caught,124,32,41,77
+TI 2I,C,Patrat,19/03/2023,Univ Brawijaya,Bug/Poison,Caught,47,48,90,185
+TI 2I,C,Lillipup,19/03/2023,Univ Brawijaya,Normal,Caught,80,31,114,57
+TI 2I,C,Purrloin,19/03/2023,Univ Brawijaya,Grass/Poison,Caught,77,98,103,420
+TI 2I,C,Pansear,19/03/2023,Univ Brawijaya,Grace/steel,Caught,74,69,77,365
+TI 2I,C,Pidove,19/03/2023,Univ Brawijaya,Bug,Caught,51,79,37,371
+TI 2I,C,Tranquill,19/03/2023,Univ Brawijaya,Ground/Electric,Caught,114,138,52,1030
+TI 2I,C,Roggenrola,19/03/2023,Univ Brawijaya,Fire,Caught,46,23,67,38
+TI 2I,C,Drilbur,19/03/2023,Univ Brawijaya,Grass,Caught,120,77,54,425
+TI 2I,C,Purrloin,19/03/2023,Univ Brawijaya,Fire,Caught,52,61,111,314
+TI 2I,C,Vanipeda,19/03/2023,Univ Brawijaya,Ground/Electric,Caught,104,22,40,98
+TI 2I,C,pikachu,19/03/2023,Barawijaya,Electric,Caught,57,77,31,425
+TI 2I,C,diglett,19/03/2023,Barawijaya,Ground,Caught,50,61,112,314
+TI 2I,C,Drowzee,19/03/2023,Barawijaya,Psychic,Caught,49,22,57,98
+TI 2I,C,Voltrob,19/03/2023,Barawijaya,Electric,Caught,63,62,95,236
+TI 2I,C,Hitmonlee,19/03/2023,Barawijaya,Fighting,Caught,56,56,69,198
+TI 2I,D,Teddiursa,19/03/2023,Polinema,Normal,Caught,142,61,93,251
+TI 2I,D,Chinchou,18/03/2023,Polinema,Water/Electric,Caught,106,88,97,333
+TI 2I,D,Yungoos,18/03/2023,Polinema,Normal,Caught,122,53,56,157
+TI 2I,D,Weedle,18/03/2023,Polinema,Bug/Poison,Caught,122,44,56,72
+TI 2I,D,Froakie,18/03/2023,Polinema,Water,Caught,122,63,84,340
+TI 2I,D,Ekans,18/03/2023,Polinema,Poison,Caught,110,10,97,11
+TI 2I,D,Oddish,18/03/2023,Polinema,Grass/Poison,Caught,131,42,112,190
+TI 2I,D,Stunky,18/03/2023,Polinema,Poison/Dark,Caught,121,29,90,45
+TI 2I,D,Gastly,18/03/2023,Polinema,Ghost/Poison,Caught,186,43,67,289
+TI 2I,D,Stufful,18/03/2023,Polinema,Normal/Fighting,Caught,136,17,95,17
+TI 2I,D,Duoduo,18/03/2023,Polinema,Normal/Flying,Caught,158,39,83,217
+TI 2I,D,Pidove,18/03/2023,Polinema,Normal/Flying,Caught,98,63,80,217
+TI 2I,D,Voltrob,18/03/2023,Polinema,Electric ,Caught,109,61,111,326
+TI 2I,D,Oddish,18/03/2023,Polinema,Grass/Poison,Caught,131,39,112,153
+TI 2I,D,Purrloin,18/03/2023,Polinema,Dark,Caught,98,44,73,124
+TI 2I,D,Zubat,18/03/2023,Polinema,Poison/Flying,Caught,83,64,73,228
+TI 2I,D,Tympole,18/03/2023,Polinema,Water,Caught,98,42,78,92
+TI 2I,D,Chinchou,18/03/2023,Polinema,Water/Electric,Caught,106,47,97,104
+TI 2I,D,Froakie,18/03/2023,Polinema,Water,Caught,122,44,84,173
+TI 2I,D,Glameow,18/03/2023,Polinema,Normal,Caught,109,43,82,125
+TI 2I,D,Pansage,18/03/2023,Polinema,Grass,Caught,104,28,94,95
+TI 2I,D,Glameow,17/03/2023,Polinema,Normal,Caught,109,14,82,11
+TI 2I,D,Magikarp,17/03/2023,Polinema,Water,Caught,29,34,85,40
+TI 2I,D,Karrablast,17/03/2023,Polinema,Bug ,Caught,137,36,87,108
+TI 2I,D,Aron,15/03/2023,Polinema,Steel/Rock,Caught,121,53,141,251
+TI 2I,D,Starly,15/03/2023,Polinema,Normal/Flying,Caught,101,46,58,141
+TI 2I,D,Caterpie,15/03/2023,Polinema,Bug ,Caught,55,50,55,75
+TI 2I,D,Surskit,15/03/2023,Polinema,Bug/Water,Caught,93,43,87,142
+TI 2I,D,Primeape,15/03/2023,Polinema,Fighting,Caught,207,47,138,280
+TI 2I,D,Ledyba,15/03/2023,Polinema,Bug/Flying,Caught,72,34,118,73
+TI 2I,D,Solrock,15/03/2023,Polinema,Rock/Psychic,Caught,178,69,153,350
+TI 2I,D,Ekans,15/03/2023,Polinema,Poison,Caught,110,40,97,164
+TI 2I,D,Patrat,15/03/2023,Polinema,Normal,Caught,98,62,73,231
+TI 2I,D,Hoppip,14/03/2023,Polinema,Grass/Flying,Caught,67,23,94,29
+TI 2I,D,Teddiursa,14/03/2023,Polinema,Normal,Caught,142,53,93,203
+TI 2I,D,Bunnelby,14/03/2023,Polinema,Normal,Caught,68,37,72,62
+TI 2I,D,Vulpix,14/03/2023,Polinema,Fire,Caught,96,36,109,102
+TI 2I,D,Foongus,14/03/2023,Polinema,Grass/Poison,Caught,97,61,91,166
+TI 2I,D,Zubat,14/03/2023,Polinema,Poison/Flying,Caught,83,49,73,126
+TI 2I,D,Drifblim,14/03/2023,Polinema,Ghost/Flying,Caught,180,30,102,31
+TI 2I,D,Voltrob,14/03/2023,Polinema,Electric ,Caught,109,21,111,37
+TI 2I,D,Surskit,14/03/2023,Polinema,Bug/Water,Caught,93,20,87,32
+TI 2I,D,Staravia,14/03/2023,Polinema,Normal/Flying,Caught,142,15,94,17
+TI 2I,D,Houndour,14/03/2023,Polinema,Dark/Fire,Caught,152,12,83,15
+TI 2I,D,Mareanie,14/03/2023,Polinema,Poison/Water,Caught,98,47,110,141
+TI 2I,D,Houndour,14/03/2023,Polinema,Dark/Fire,Caught,152,36,83,115
+TI 2I,D,Sentret,14/03/2023,Polinema,Normal,Caught,84,24,79,39
+TI 2I,D,Caterpie,14/03/2023,Polinema,Bug,Caught,55,29,55,30
+TI 2I,D,Eevee,14/03/2023,Polinema,Normal,Caught,104,13,114,14
+TI 2I,D,Surskit,14/03/2023,Polinema,Bug/Water,Caught,93,42,87,122
+TI 2I,D,Bulbasaur,14/03/2023,Polinema,Grass/Poison,Caught,118,12,111,14
+TI 2I,E,Charmander,15/03/2023,Polinema,Fire,Caught,43,28,14,12
+TI 2I,E,Tranquil,20/03/2023,Polinema,Normal / Fly,Caught,62,48,68,18
+TI 2I,E,Hitmontop,17/03/2023,Polinema,Fighter,Caught,71,65,80,28
+TI 2I,E,Starly,17/03/2023,Polinema,Normal / Fly,Caught,57,44,69,29
+TI 2I,E,Sewaddle,18/03/2023,Sulfat,Bug / leaf,Caught,16,58,24,34
+TI 2I,E,Flareon,17/03/2023,Sulfat,Fire,Caught,55,13,29,39
+TI 2I,E,Voltrob,17/03/2023,Sulfat,Electric,Caught,44,28,67,40
+TI 2I,E,Popplio,17/03/2023,Dau,Water,Caught,14,34,62,48
+TI 2I,E,Vulpix,17/03/2023,Dau,Fire,Caught,56,43,46,51
+TI 2I,E,Aaron,20/03/2023,Suhat,Steel/Rock,Caught,26,30,73,52
+TI 2I,E,Tranquill,17/03/2023,Suhat,Normal / Fly,Caught,68,30,57,54
+TI 2I,E,Bidoof,17/03/2023,Suhat,Normal,Caught,19,96,55,66
+TI 2I,E,Pidove,17/03/2023,Suhat,Normal / Fly,Caught,39,84,16,71
+TI 2I,E,Kricketot,17/03/2023,Suhat,Bug,Caught,93,13,19,75
+TI 2I,E,Lillipup,17/03/2023,Sulfat,Normal,Caught,52,74,12,77
+TI 2I,E,Kricketot,20/03/2023,Polinema,Bug,Caught,37,15,62,78
+TI 2I,E,Ekans,17/03/2023,Polinema,Poison,Caught,25,43,19,81
+TI 2I,E,Grubbin,17/03/2023,Dau,Bug,Caught,13,49,17,95
+TI 2I,E,Deerling,17/03/2023,Polinema,Normal / Grass,Caught,14,46,27,111
+TI 2I,E,Cuterpie,20/03/2023,Dau,Bug,Caught,13,72,57,115
+TI 2I,E,Cyndaquil,17/03/2023,Polinema,Fire,Caught,55,26,77,120
+TI 2I,E,Chinchou,18/03/2023,Polinema,Water / Electric,Caught,27,41,92,135
+TI 2I,E,Froakie,18/03/2023,Polinema,Water,Caught,94,17,22,140
+TI 2I,E,Deerling,17/03/2023,Dau,Normal / Grass,Caught,79,59,19,144
+TI 2I,E,Lillipup,20/03/2023,Suhat,Normal,Caught,15,70,56,154
+TI 2I,E,Lillipup,20/03/2023,Dau,Normal,Caught,15,34,72,163
+TI 2I,E,Patrat,20/03/2023,Polinema,Normal,Caught,74,24,97,177
+TI 2I,E,Oddish,17/03/2023,Polinema,Leaf / Poison,Caught,62,29,29,213
+TI 2I,E,Chikorita,20/03/2023,Sulfat,Leaf ,Caught,17,29,95,189
+TI 2I,E,Mareanie,18/03/2023,Dau,Poison / Water,Caught,31,51,67,195
+TI 2I,E,Chinchou,18/03/2023,Sulfat,Water / Electric,Caught,74,92,19,225
+TI 2I,E,Pidove,18/03/2023,Dau,Normal / Fly,Caught,26,76,74,228
+TI 2I,E,Fletchling,18/03/2023,Suhat,Normal / Fly,Caught,13,24,97,231
+TI 2I,E,Oddish,17/03/2023,Suhat,Leaf / Poison,Caught,21,93,32,234
+TI 2I,E,Exeggcute,20/03/2023,Sulfat,Leaf / Psychic,Caught,39,27,77,254
+TI 2I,E,Corsola,17/03/2023,Sulfat,Water / Rock,Caught,38,22,99,255
+TI 2I,E,Sawk,18/03/2023,Sulfat,Fighter,Caught,74,88,14,270
+TI 2I,E,Doduo,20/03/2023,Suhat,Normal / Fly,Caught,43,60,72,274
+TI 2I,E,Popplio,20/03/2023,Suhat,Water,Caught,52,91,33,278
+TI 2I,E,Ekans,20/03/2023,Sulfat,Poison,Caught,93,15,64,303
+TI 2I,E,Ekans,17/03/2023,Sulfat,Poison,Flee,35,33,93,255
+TI 2I,E,Ekans,17/03/2023,Sulfat,Poison,Flee,66,50,75,275
+TI 2I,E,Oddish,17/03/2023,Polinema,Leaf / Poison,Flee,95,42,25,156
+TI 2I,E,Mareanie,18/03/2023,Polinema,Poison / Water,Flee,39,43,98,195
+TI 2I,E,Tentacool,18/03/2023,Polinema,Poison / Water,Caught,171,13,39,342
+TI 2I,E,Lairon,20/03/2023,Polinema,Steel/Rock,Caught,139,59,181,428
+TI 2I,E,Hitmontop,17/03/2023,Polinema,Fighter,Caught,67,24,94,512
+TI 2I,F,Lairon,18/03/2023,Polinema,Steel/Rock,Caught,158,42,196,193
+TI 2I,F,Pikachu,18/03/2023,Polinema,Electric,Caught,112,25,96,64
+TI 2I,F,Panpour,15/03/2023,Univ Brawijaya,Water,Caught,104,24,94,38
+TI 2I,F,Aron,15/03/2023,Univ Brawijaya,Steel/Rock,Caught,121,38,141,117
+TI 2I,F,Zubat,15/03/2023,Rampal,Poison/Flying,Caught,83,50,73,160
+TI 2I,F,Froakie,15/03/2023,Rampal,Water,Caught,122,34,84,101
+TI 2I,F,Tepig,15/03/2023,Rampal,Fire,Caught,115,35,85,71
+TI 2I,F,Eevee,15/03/2023,Rampal,Normal,Caught,104,46,114,129
+TI 2I,F,Elgyem,15/03/2023,Araya,Psychic,Caught,148,60,100,334
+TI 2I,F,Snivy,15/03/2023,Araya,Grass,Caught,88,12,107,10
+TI 2I,F,Wooper,15/03/2023,Araya,Water/Ground,Caught,75,14,66,10
+TI 2I,F,Bergmite,15/03/2023,Araya,Ice,Caught,117,32,120,80
+TI 2I,F,Voltorb,15/03/2023,Araya,Electric,Caught,109,34,111,110
+TI 2I,F,Karrablast,15/03/2023,Araya,Dark,Caught,137,24,87,48
+TI 2I,F,Ekans,15/03/2023,Sawojajar,Poison,Caught,110,33,90,109
+TI 2I,F,Drifblim,15/03/2023,Sawojajar,Ghost/Flying,Caught,180,119,102,508
+TI 2I,F,Meowth,15/03/2023,Sawojajar,Normal,Caught,92,44,78,118
+TI 2I,F,Venonat,15/03/2023,Sawojajar,Bug/Poison,Caught,100,47,100,108
+TI 2I,F,Venipede,15/03/2023,Sawojajar,Bug/Poison,Caught,83,31,99,84
+TI 2I,F,Clauncher,15/03/2023,Sawojajar,Water,Caught,108,29,117,66
+TI 2I,F,Tympole,15/03/2023,Klojen,Water,Caught,98,30,76,50
+TI 2I,F,Dunsparce,15/03/2023,Klojen,Normal,Caught,131,60,128,172
+TI 2I,F,Oshawott,15/03/2023,Klojen,Water,Caught,117,34,85,70
+TI 2I,F,Ferroseed,15/03/2023,Klojen,Grass/Steel,Caught,82,29,155,62
+TI 2I,F,Blitzle,15/03/2023,Pakis,Electric,Caught,118,35,64,89
+TI 2I,F,Ralts,15/03/2023,Pakis,Psychic/Fairy,Caught,79,54,59,177
+TI 2I,F,Togedemaru,15/03/2023,Pakis,Electric/Steel,Caught,190,57,145,370
+TI 2I,F,Lunatone,15/03/2023,Pakis,Rock/Psychic,Caught,178,19,153,30
+TI 2I,F,Foongus,15/03/2023,Pakis,Grass/Poison,Caught,97,77,91,289
+TI 2I,F,Wimpod,15/03/2023,Pakis,Bug/Water,Caught,67,39,74,114
+TI 2I,F,Poliwag,15/03/2023,Batu,Water,Caught,101,34,82,98
+TI 2I,F,Pikachu,15/03/2023,Batu,Electric,Caught,112,47,96,211
+TI 2I,F,Vulpix,15/03/2023,Batu,Fire,Caught,96,11,109,10
+TI 2I,F,Seel,15/03/2023,Batu,Water,Caught,85,54,121,136
+TI 2I,F,Yungoos,15/03/2023,Batu,Normal,Caught,122,24,56,37
+TI 2I,F,Ekans,15/03/2023,Batu,Poison,Caught,110,10,90,11
+TI 2I,F,Squirtle,15/03/2023,Batu,Water,Caught,94,12,121,12
+TI 2I,F,Arbok,15/03/2023,Araya,Poison,Flee,205,65,23,43
+TI 2I,F,Ekans,15/03/2023,Araya,Poison,Flee,158,35,87,56
+TI 2I,F,Arbok,15/03/2023,Sawojajar,Poison,Flee,106,87,43,23
